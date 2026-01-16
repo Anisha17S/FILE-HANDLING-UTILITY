@@ -1,0 +1,9 @@
+Java File Handling Program
+This file is created for internship task.
+Operations performed:
+1. Write
+2. Read
+3. Modify
+
+File modified successfully.
+New content added to the file.
